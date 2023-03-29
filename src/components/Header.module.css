@@ -1,0 +1,12 @@
+.welcome {
+  color: #60f1cd;
+  text-align: center;
+  font-style: oblique;
+  font-family: "Courier New", "Lucida Console", monospace;
+}
+
+.header h1 {
+  color: #fff;
+  text-align: center;
+  margin: 30px 0;
+}

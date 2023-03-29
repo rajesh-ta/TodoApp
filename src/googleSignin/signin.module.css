@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: linear-gradient(to right bottom, #e1b382, #e89666);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-wrapper {
+  background-color: #2e2e2e;
+  min-width: 450px;
+  min-height: 650px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 3px 6px 40px #000;
+  margin-bottom: 10px;
+}
+
+.header h1 {
+  color: #fff;
+  text-align: center;
+  margin: 60px 0;
+}
+
+.button-login {
+  padding: 10px 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  background-color: #f1af71;
+  cursor: pointer;
+}
+
+.login-div {
+  margin-top: 100px;
+  margin-left: 155px;
+  width: 200px;
+}

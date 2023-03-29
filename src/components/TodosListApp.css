@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: linear-gradient(to right bottom, #e1b382, #e89666);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-wrapper {
+  background-color: #2e2e2e;
+  min-width: 450px;
+  min-height: 650px;
+  padding: 30px;
+  box-sizing: border-box;
+  box-shadow: 3px 6px 40px #000;
+  margin-bottom: 10px;
+}
+
+.button-logout {
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #60f1cd;
+  cursor: pointer;
+}
+
+.logout-div {
+  margin-top: 100px;
+  margin-left: 150px;
+  width: 90px;
+}
